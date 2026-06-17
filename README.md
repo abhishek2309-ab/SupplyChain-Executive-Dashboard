@@ -145,9 +145,7 @@ SupplyPulse/
 ## 🔗 Connect With Me
 
 www.linkedin.com/in/abhishek-pawar-b128b9274 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+
 
 Feel free to connect for discussions on **Power BI, Data Analytics, Business Intelligence, and Supply Chain Analytics**.
 
