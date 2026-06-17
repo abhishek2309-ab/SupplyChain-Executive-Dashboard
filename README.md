@@ -144,8 +144,7 @@ SupplyPulse/
 
 ## 🔗 Connect With Me
 
-<p align="left">
-<a href=www.linkedin.com/in/abhishek-pawar-b128b9274 target="_blank">
+www.linkedin.com/in/abhishek-pawar-b128b9274 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
