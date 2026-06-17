@@ -18,12 +18,10 @@ Transforming Inventory, Logistics, and Supplier Data into Actionable Business In
 
 <p align="center">
   <img width="1123" height="632" alt="image" src="https://github.com/user-attachments/assets/5c496a64-1bc3-4fb0-b1f4-fd0f774afe7f" />
- width="95%">
 </p>
 
 <p align="center">
   <img width="1117" height="633" alt="image" src="https://github.com/user-attachments/assets/63714f73-b2a7-4197-bfa4-3fe4d1a1be11" />
- width="95%">
 </p>
 
 ---
